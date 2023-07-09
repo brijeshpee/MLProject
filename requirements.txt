@@ -1,3 +1,11 @@
 pandas
 numpy
--e .
+TensorFlow
+NumPy
+SciPy 
+Pandas
+Matplotlib 
+Keras
+scikit-learn
+dataclasses
+#-e .
